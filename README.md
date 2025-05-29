@@ -1,37 +1,40 @@
-<h1 align="center">Hi 👋, I'm @vks-07</h1>
+<h1 align="center">Hi 👋, I'm Varun Kumar Sahu</h1>
 <p align="center">
-  A passionate web developer and problem solver from 🌍
+  A passionate web developer, backend enthusiast, and problem solver from 🌍
 </p>
 
 ---
 
-### 👀 I’m interested in
-- Full-stack Web Development  
-- Backend Engineering  
-- Data Structures and Algorithms (DSA)  
-- Building scalable and efficient systems
+### 🎓 About Me
+- 🏫 I'm currently pursuing **Computer Science and Engineering** at **MNNIT Allahabad**  
+- 👀 I’m interested in:
+  - Full-stack Web Development  
+  - Backend Engineering  
+  - Data Structures and Algorithms (DSA)  
+  - Scalable and efficient system design  
+- 🤖 Currently exploring the domain of **Machine Learning**
 
 ### 🌱 I’m currently learning
 - Node.js, Express.js & MongoDB  
 - Advanced DSA concepts  
-- System design & architecture  
-- DevOps basics
+- ML fundamentals and model building  
+- System design & DevOps basics
 
 ### 💞️ I’m looking to collaborate on
 - Open source backend/web projects  
-- Problem-solving challenges  
-- Web apps with real-world impact
+- Problem-solving competitions  
+- ML-based projects and web apps
 
 ### 📫 How to reach me
-- Email: `varunsahu10109@gmail.com`  
-- LinkedIn: [varun kumar sahu]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/varun-kumar-sahu-b34047317/))  
+- Email: `your.email@example.com`  
+- LinkedIn: [Varun Kumar Sahu](https://www.linkedin.com/in/varun-kumar-sahu-b34047317/)
 - GitHub: [@vks-07](https://github.com/vks-07)
 
 ### 😄 Pronouns
 - He/Him
 
 ### ⚡ Fun fact
-- I love breaking problems into tiny pieces and solving them like puzzles 🧩
+- I love breaking complex problems into tiny pieces and solving them like puzzles 🧩
 
 ---
 
