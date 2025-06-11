@@ -11,14 +11,12 @@
   - Full-stack Web Development  
   - Backend Engineering  
   - Data Structures and Algorithms (DSA)  
-  - Scalable and efficient system design  
 - 🤖 Currently exploring the domain of **Machine Learning**
 
 ### 🌱 I’m currently learning
 - Node.js, Express.js & MongoDB  
 - Advanced DSA concepts  
 - ML fundamentals and model building  
-- System design & DevOps basics
 
 ### 💞️ I’m looking to collaborate on
 - Open source backend/web projects  
