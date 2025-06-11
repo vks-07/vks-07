@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar Sahu</h1>
 <p align="center">
-  A passionate web developer, backend enthusiast, and problem solver from 🌍
+  A passionate web developer, backend enthusiast, and problem solver from MNNIT Prayagraj
 </p>
 
 ---
