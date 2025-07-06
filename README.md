@@ -24,7 +24,7 @@
 - ML-based projects and web apps
 
 ### 📫 How to reach me
-- Email: `varunsahu10109@gmail.com`  
+- Email: `varunsahu830@gmail.com`  
 - LinkedIn: [Varun Kumar Sahu](https://www.linkedin.com/in/varun-kumar-sahu-b34047317/)
 - GitHub: [@vks-07](https://github.com/vks-07)
 
